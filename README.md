@@ -23,32 +23,42 @@
 - 支持 Android7.0 Shortcuts
 
 ## 官方网站及下载
-官方网站与支持： http://paywhere.cn/
+###### 官方网站与支持： 
+http://paywhere.cn/
 
-酷安市场下载： https://www.coolapk.com/apk/com.kongzue.paywhere
+###### 酷安市场下载： 
+https://www.coolapk.com/apk/com.kongzue.paywhere
 
-Google Play： https://play.google.com/store/apps/details?id=com.kongzue.paywhere
+###### Google Play： 
+https://play.google.com/store/apps/details?id=com.kongzue.paywhere
 
-锤子应用市场： http://res.smartisanos.cn/appstore-oss/com.kongzue.paywhere/apk/B03791FF89B6DE97A07F59D0255B72D8.apk
+###### 锤子应用市场： 
+http://res.smartisanos.cn/appstore-oss/com.kongzue.paywhere/apk/B03791FF89B6DE97A07F59D0255B72D8.apk
 
 
 ## 技术团队
-全知工坊： http://www.imuuzi.com/
+###### 全知工坊： http://www.imuuzi.com/
 
-Kongzue(Android)： http://kongzue.com/
+###### Kongzue(Android)： http://kongzue.com/
 
 ## 引用库列表
-BaseActivity： https://github.com/kongzue/BaseActivity
+###### BaseActivity：
+https://github.com/kongzue/BaseActivity
 
-bugly： https://bugly.qq.com/v2/
+###### bugly： 
+https://bugly.qq.com/v2/
 
-volley： https://github.com/google/volley
+###### volley： 
+https://github.com/google/volley
 
-fresco： https://github.com/facebook/fresco
+###### fresco： 
+https://github.com/facebook/fresco
 
-ticwear： https://github.com/ticwear/sdk
+###### ticwear： 
+https://github.com/ticwear/sdk
 
-tiny： https://github.com/Sunzxyong/Tiny
+###### tiny： 
+https://github.com/Sunzxyong/Tiny
 
 ## 使用与服务协议 
 详见： http://paywhere.cn/agreement.html
