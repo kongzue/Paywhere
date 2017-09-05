@@ -24,9 +24,13 @@
 
 ## 官方网站及下载
 官方网站与支持： http://paywhere.cn/
+
 酷安市场下载： https://www.coolapk.com/apk/com.kongzue.paywhere
+
 Google Play： https://play.google.com/store/apps/details?id=com.kongzue.paywhere
+
 锤子应用市场： http://res.smartisanos.cn/appstore-oss/com.kongzue.paywhere/apk/B03791FF89B6DE97A07F59D0255B72D8.apk
+
 
 ## 技术团队
 全知工坊： http://www.imuuzi.com/
