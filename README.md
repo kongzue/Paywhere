@@ -61,4 +61,5 @@ https://github.com/ticwear/sdk
 https://github.com/Sunzxyong/Tiny
 
 ## 使用与服务协议 
-详见： http://paywhere.cn/agreement.html
+###### 详见： 
+http://paywhere.cn/agreement.html
