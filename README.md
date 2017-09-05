@@ -37,13 +37,18 @@ http://res.smartisanos.cn/appstore-oss/com.kongzue.paywhere/apk/B03791FF89B6DE97
 
 
 ## 技术团队
-###### 全知工坊： http://www.imuuzi.com/
+###### 全知工坊： 
+http://www.imuuzi.com/
 
-###### Kongzue(Android)： http://kongzue.com/
+###### Kongzue(Android)： 
+http://kongzue.com/
 
 ## 引用库列表
 ###### BaseActivity：
 https://github.com/kongzue/BaseActivity
+
+###### 空祖家的Dialog：
+https://github.com/kongzue/Dialog
 
 ###### bugly： 
 https://bugly.qq.com/v2/
