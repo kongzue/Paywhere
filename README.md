@@ -34,9 +34,21 @@ Google Play： https://play.google.com/store/apps/details?id=com.kongzue.paywher
 
 ## 技术团队
 全知工坊： http://www.imuuzi.com/
+
 Kongzue(Android)： http://kongzue.com/
 
 ## 引用库列表
+BaseActivity： https://github.com/kongzue/BaseActivity
 
+bugly： https://bugly.qq.com/v2/
 
-## 捐助
+volley： https://github.com/google/volley
+
+fresco： https://github.com/facebook/fresco
+
+ticwear： https://github.com/ticwear/sdk
+
+tiny： https://github.com/Sunzxyong/Tiny
+
+## 使用与服务协议 
+详见： http://paywhere.cn/agreement.html
