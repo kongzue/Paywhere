@@ -52,7 +52,6 @@
 				color: #ffffff;
 				background-color:#262626;
 				line-height: 0.42rem;
-				cursor: pointer;
 				white-space: pre-wrap;
 			}
 			.answer>p {
@@ -73,8 +72,7 @@
 	<body>
 		<div id="questions">
 			<div class="queueItem" v-for="(item,index) of list" :key="index" @click="titleClick(index)" :class="item.open?'active':''">
-				<div class="
-      title">
+				<div class="title">
 					{{item.question}}
 					<img src="img/slide_icon.png" class="icon">
 				</div>
